@@ -3,7 +3,7 @@
 Application created as part of the challenge from Aava lääkärikeskus as part of the Junction 2024 hackathon
 ---
 
-### Aava: A Well-Being-Centric Job Matching Platform
+### Balance Hub: A Well-Being-Centric Job Matching Platform
 
 Balance Hub is a unique application developed for the Aava Challenge, designed to revolutionize workplace culture by prioritizing employee well-being. In a world where mental health often takes a back seat to performance, Aava focuses on aligning individuals with workplaces that support their values, work-life balance, and mental health needs.
 
