@@ -1,5 +1,5 @@
 # Balance Hub
-##About app
+## About app
 Application created as part of the challenge from Aava lääkärikeskus as part of the Junction 2024 hackathon
 ---
 
